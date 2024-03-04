@@ -8,6 +8,7 @@ nav:
   - HOME: 
     - index.md
   - PERSONAL PARTICULARS:
+    - PERSONAL_PARTICULARS/PERSONAL_PARTICULARS.md
     - About me: PERSONAL_PARTICULARS/PERSONAL_PARTICULARS.md
     - Honors / Awards: PERSONAL_PARTICULARS/HONORS_OR_AWARDS.md
     - Work Experience: PERSONAL_PARTICULARS/Brief_Introduction.md
@@ -22,7 +23,7 @@ nav:
 theme:
   # initial
   name: material
-  logo: images\logo.png
+  logo: images/logo.png
   # favicon: images/logo_TIGC_black_color.png
   # main color
   palette: 
