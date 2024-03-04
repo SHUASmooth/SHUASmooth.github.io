@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-!!! danger "BUILDING"
+!!! info danger "BUILDING"
      Website under construction...
     
 !!! success "Update"
