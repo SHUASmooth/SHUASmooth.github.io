@@ -1,2 +1,2 @@
-[timeline  (.\docs\assets\award.yaml)]
+[timeline  (./docs/assets/award.yaml)]
 
