@@ -93,8 +93,8 @@ markdown_extensions:
 extra:
   alternate:
     - name: English
-      link: /https://SHUASmooth.github.io/
+      link: /en/
       lang: en
     - name: Chinese
-      link: /de/
+      link: /zh/
       lang: zh
