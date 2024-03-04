@@ -8,16 +8,16 @@ nav:
   - HOME: 
     - index.md
   - PERSONAL PARTICULARS:
-    - About me: PERSONAL_PARTICULARS/PERSONAL_PARTICULARS.md
-    - Honors / Awards: PERSONAL_PARTICULARS/HONORS_OR_AWARDS.md
-    - Work Experience: PERSONAL_PARTICULARS/Brief_Introduction.md
+    - About me: person/particulars.md
+    - Honors / Awards: person/honors.md
+    - Work Experience: person/intoduction.md
   - ACADEMIC:
     - Research:
-      - SRTP: RESEARCH/PERSONAL_PARTICULARS.md
-      - About me: RESEARCH/HONORS_OR_AWARDS.md
+      - SRTP: research/SRTP.md
+      - Others: research/other.md
       # - course:
   - NEWs:
-    - Life: NEWS/PERSONAL_PARTICULARS.md
+    - Life: news/life.md
 
 theme:
   # initial
@@ -95,5 +95,5 @@ extra:
       link: /en/
       lang: en
     - name: Chinese
-      link: /site/index/
+      link: /zh/
       lang: zh
