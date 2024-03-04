@@ -1,0 +1,76 @@
+---
+hide:
+  - navigation
+---
+
+# Hi! This is Smooth Soos!
+!!! Warning "WORKING OVERTIME..."
+
+    * The website is still under construction!
+
+    * Hopefully, this will to be a fancy home page!
+
+???+ Abstract "欢迎光临我的个人网站！"
+    
+    在这里，我将为您呈现一系列丰富多彩的内容，涵盖了我个人感兴趣的领域和经验分享。无论是技术探讨、生活感悟还是创意无限，我都将尽力为您带来有价值的信息和启发。
+
+    我的网站不仅是分享知识的平台，更是我与您互动交流的空间。如果您有任何问题或建议，请随时留言与我沟通，我会竭诚为您解答和采纳。
+
+    希望我的网站能为您带来愉悦的阅读体验，激发您的思考和灵感。请随时访问，我将不断更新内容，与您共同成长和进步。
+
+    再次感谢您的光临，祝您浏览愉快！
+
+!!! info inline "统计"
+
+    <center>页面数  ？？？
+    
+    字数    ？？？
+    </center>
+    
+!!! quote " "
+    <br/>
+    &emsp;&nbsp; 可求的只有你自己，你要俯下身去，朝着幽暗深处的自己伸出手去。
+    <p align="right">——余华</p>
+
+## Contact me
+[cards cols=2(.\docs\assets\social.yaml)]
+
+
+##  FELL FREE TO CONTACT ME !!! 
+
+## FANCY!
+
+    # wish to be happy
+    import smooth.soos
+
+## This is something left...
+
+### Welcome to MkDocs
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+#### Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+#### Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+
+=== "Unordered list"
+
+    * Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
+
+=== "Ordered list"
+
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
