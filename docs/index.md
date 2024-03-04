@@ -6,7 +6,8 @@ hide:
 !!! danger "BUILDING"
      Website under construction...
     
-     Chinese and English switching has not yet been completed! ! ! Stay tuned
+!!! success "Update"
+     Chinese and English switching is completed! ! ! Come and try it!
 
 # Hi! This is Smooth Soos!
 !!! Warning "WORKING OVERTIME..."
