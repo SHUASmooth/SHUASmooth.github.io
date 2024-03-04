@@ -33,7 +33,7 @@ hide:
     <p align="right">——余华</p>
 
 ## Contact me
-[cards cols=2(.\docs\assets\social.yaml)]
+[cards cols=2(./docs/assets/social.yaml)]
 
 
 ##  FELL FREE TO CONTACT ME !!! 
