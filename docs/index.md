@@ -3,80 +3,44 @@ hide:
   - navigation
 ---
 
-!!! danger "建设"
-    网站建设中......
+!!! danger "BUILDING"
+     Website under construction...
     
-    中英文切换尚未建成！！！敬请期待
+     Chinese and English switching has not yet been completed! ! ! Stay tuned
 
+# Hi! This is Smooth Soos!
+!!! Warning "WORKING OVERTIME..."
 
-# 你好，这里是SMOOTH的网站!
-!!! Warning "加班建设中..."
+    * The website is still under construction!
 
-    * 该网站仍在建设!
+    * Hopefully, this will to be a fancy home page!
 
-    * 希望可以成为一个非常好看的网站!
-
-???+ Abstract "欢迎光临我的个人网站！"
+???+ Abstract "Welcome to my personal website!"
     
-    在这里，我将为您呈现一系列丰富多彩的内容，涵盖了我个人感兴趣的领域和经验分享。无论是技术探讨、生活感悟还是创意无限，我都将尽力为您带来有价值的信息和启发。
+   Here, I will present you with a series of colorful content covering my personal areas of interest and experience sharing. Whether it is technical discussion, life insights or unlimited creativity, I will try my best to bring you valuable information and inspiration.
 
-    我的网站不仅是分享知识的平台，更是我与您互动交流的空间。如果您有任何问题或建议，请随时留言与我沟通，我会竭诚为您解答和采纳。
+     My website is not only a platform for sharing knowledge, but also a space for me to interact with you. If you have any questions or suggestions, please feel free to leave a message to communicate with me, and I will be happy to answer and adopt them for you.
 
-    希望我的网站能为您带来愉悦的阅读体验，激发您的思考和灵感。请随时访问，我将不断更新内容，与您共同成长和进步。
+     I hope my website can bring you a pleasant reading experience and stimulate your thinking and inspiration. Please visit at any time, I will continue to update the content and grow and progress with you.
 
-    再次感谢您的光临，祝您浏览愉快！
+     Thank you again for visiting and happy browsing!
 
-!!! info inline "统计"
+!!! info inline "statistics"
 
-    <center>页面数  ？？？
+    <center>Number of pages  ？？？
     
-    字数    ？？？
+    word count    ？？？
     </center>
     
 !!! quote " "
     <br/>
-    &emsp;&nbsp; 可求的只有你自己，你要俯下身去，朝着幽暗深处的自己伸出手去。
-    <p align="right">——余华</p>
+    &emsp;&nbsp; The only one you can ask for is yourself. You have to bend down and reach out to yourself in the dark depths.
+    <p align="right">——Yu Hua</p>
 
-## 联系方式
+## Contact me
 [cards cols=2(./docs/assets/social.yaml)]
 
 
 ##  FELL FREE TO CONTACT ME !!! 
 
 ## FANCY!
-
-    # wish to be happy
-    import smooth.soos
-
-## This is something left...
-
-### Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-#### Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-#### Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-=== "Unordered list"
-
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
-
-=== "Ordered list"
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
