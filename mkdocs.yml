@@ -5,7 +5,7 @@ site_url: https://SHUASmooth.github.io/
 copyright: Copyright © 2024 Shunhua Liu
 # architecture
 nav:
-  - HOME: home.md
+  - HOME: index.md
   - PERSONAL PARTICULARS:
     - About me: PERSONAL_PARTICULARS\PERSONAL_PARTICULARS.md
     - Honors / Awards: PERSONAL_PARTICULARS\HONORS_OR_AWARDS.md
