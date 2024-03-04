@@ -15,7 +15,7 @@ nav:
     - Research:
       - SRTP: RESEARCH/PERSONAL_PARTICULARS.md
       - About me: RESEARCH/HONORS_OR_AWARDS.md
-  - course:
+      # - course:
   - NEWs:
     - Life: NEWS/PERSONAL_PARTICULARS.md
 
