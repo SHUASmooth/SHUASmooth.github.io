@@ -18,7 +18,7 @@ hide:
 
 ???+ Abstract "Welcome to my personal website!"
     
-   Here, I will present you with a series of colorful content covering my personal areas of interest and experience sharing. Whether it is technical discussion, life insights or unlimited creativity, I will try my best to bring you valuable information and inspiration.
+     Here, I will present you with a series of colorful content covering my personal areas of interest and experience sharing. Whether it is technical discussion, life insights or unlimited creativity, I will try my best to bring you valuable information and inspiration.
 
      My website is not only a platform for sharing knowledge, but also a space for me to interact with you. If you have any questions or suggestions, please feel free to leave a message to communicate with me, and I will be happy to answer and adopt them for you.
 
