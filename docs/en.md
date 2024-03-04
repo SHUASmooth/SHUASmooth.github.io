@@ -3,6 +3,12 @@ hide:
   - navigation
 ---
 
+!!! info danger "BUILDING"
+     Website under construction...
+    
+!!! success "Update"
+     Chinese and English switching is completed! ! ! Come and try it!
+
 # Hi! This is Smooth Soos!
 !!! Warning "WORKING OVERTIME..."
 
@@ -12,13 +18,13 @@ hide:
 
 ???+ Abstract "Welcome to my personal website!"
     
-   Here, I will present you with a series of colorful content covering my personal areas of interest and experience sharing. Whether it is technical discussion, life insights or unlimited creativity, I will try my best to bring you valuable information and inspiration.
+    Here, I will present you with a series of colorful content covering my personal areas of interest and experience sharing. Whether it is technical discussion, life insights or unlimited creativity, I will try my best to bring you valuable information and inspiration.
 
-     My website is not only a platform for sharing knowledge, but also a space for me to interact with you. If you have any questions or suggestions, please feel free to leave a message to communicate with me, and I will be happy to answer and adopt them for you.
+    My website is not only a platform for sharing knowledge, but also a space for me to interact with you. If you have any questions or suggestions, please feel free to leave a message to communicate with me, and I will be happy to answer and adopt them for you.
 
-     I hope my website can bring you a pleasant reading experience and stimulate your thinking and inspiration. Please visit at any time, I will continue to update the content and grow and progress with you.
+    I hope my website can bring you a pleasant reading experience and stimulate your thinking and inspiration. Please visit at any time, I will continue to update the content and grow and progress with you.
 
-     Thank you again for visiting and happy browsing!
+    Thank you again for visiting and happy browsing!
 
 !!! info inline "statistics"
 
@@ -40,10 +46,6 @@ hide:
 
 ## FANCY!
 
-    # wish to be happy
-    import smooth.soos
-
-## This is something left...
 
 ### Welcome to MkDocs
 
