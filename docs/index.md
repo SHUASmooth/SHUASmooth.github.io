@@ -3,12 +3,18 @@ hide:
   - navigation
 ---
 
-# Hi! This is Smooth Soos!
-!!! Warning "WORKING OVERTIME..."
+!!! danger "建设"
+    网站建设中......
+    
+    中英文切换尚未建成！！！敬请期待
 
-    * The website is still under construction!
 
-    * Hopefully, this will to be a fancy home page!
+# 你好，这里是SMOOTH的网站!
+!!! Warning "加班建设中..."
+
+    * 该网站仍在建设!
+
+    * 希望可以成为一个非常好看的网站!
 
 ???+ Abstract "欢迎光临我的个人网站！"
     
@@ -32,7 +38,7 @@ hide:
     &emsp;&nbsp; 可求的只有你自己，你要俯下身去，朝着幽暗深处的自己伸出手去。
     <p align="right">——余华</p>
 
-## Contact me
+## 联系方式
 [cards cols=2(./docs/assets/social.yaml)]
 
 
