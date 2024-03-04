@@ -1,1 +1,1 @@
-[timeline center alternate (.\docs\assets\exp.yaml)]
+[timeline center alternate (./docs/assets/exp.yaml)]
